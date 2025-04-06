@@ -1,4 +1,4 @@
-# Excel-Dashboard-Project
+# Sales Performance Dashboard
 This project provides an interactive Sales Dashboard using Microsoft Excel to analyze and visualize key sales metrics. The dashboard offers insights into sales performance, customer behavior, and product profitability.
 
 📊 Key Insights
